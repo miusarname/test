@@ -4,7 +4,7 @@
 * `ReactJS`
 * `NextJS` (Opcional)
 * `TypeScript` (Opcional)
-* Conocimientos en el consumo de `APIs`
+* Conocimientos en el consumo de `API's`
 * Conocimientos en el manejo del formato `JSON`
 * `CSS`
 * `Tailwind` (Opcional)
@@ -42,6 +42,6 @@ Puedes utilizar cualquiera, la usada en este mismo caso es **Red Hat Display**.
 <img width="2240" alt="Captura de pantalla 2023-09-13 a la(s) 11 20 36 a m" src="https://github.com/desarrollo-grafosoft/test/assets/81700433/341ece40-86d8-46ed-b016-6ba53d03771d">
 
 ### Tips y recomendaciones
-* También para probar sus conocimientos sobre el consumo de `APIs` en este caso en la sección de **AUTORES** de la interfaz reemplazarla por 3 personajes que salen en la **API de Rick y Morty**: https://rickandmortyapi.com/api/character.
+* También para probar sus conocimientos sobre el consumo de `API's` en este caso en la sección de **AUTORES** de la interfaz reemplazarla por 3 personajes que salen en la **API de Rick y Morty**: https://rickandmortyapi.com/api/character.
 * **Recomendación**: Utilice la aplicación `Postman` para mejor lectura del `JSON`.
 * Si desea obtener más información sobre la `API`, visite la **documentación oficial**: https://rickandmortyapi.com/documentation/#rest 
