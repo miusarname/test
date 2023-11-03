@@ -15,7 +15,7 @@
 
 ### Tips que se van a revisar en el aspecto visual de la aplicación:
 1. Uso de los **colores, fuentes y otros elementos multimedia** elegidos en este archivo.
-2. El diseño sea adaptable a distintas pantallas (**Recomendación**: No enfocarse tanto en este tema por el tiempo, pero si es necesario que se maneje un poco el responsive design).
+2. El diseño sea adaptable a distintas pantallas **(Responsive Design)**.
 3. Tener el mínimo de errores o advertencias en la **consola del navegador**.
 4. No dejar `console.log` que se muestren en el navegador, puede borrarlos antes de subirlo a producción.
 5. La interfaz va a ser sólo visual, **los botones y otras herramientas no van a realizar ninguna interacción**.
